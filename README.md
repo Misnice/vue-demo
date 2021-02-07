@@ -1,5 +1,3 @@
-# lsm
-
 ## Project setup
 ```
 npm install
